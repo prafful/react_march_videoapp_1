@@ -1,0 +1,12 @@
+1. Install react-router-dom in videoapp
+2. Wrap Root component of videoapp in Hashrouter
+3. Create spa folder in src folder
+4. Create 2 components in spa folder: menu and content component
+5. Setup menu component with Link
+    a. Link to Gallery component
+    b. Link to Content API component
+    c. Link to Youtube component
+
+6. Configure content component accordingly
+7. Remove Gallery, ContentAPI and Youtube component from root component and load Menu and Conent component in its place.
+8. Your SPA will be ready    
